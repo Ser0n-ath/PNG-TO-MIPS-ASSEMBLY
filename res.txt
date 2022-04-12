@@ -1,0 +1,142 @@
+	move $t3, $zero
+	addi $t2, $t2, 4
+	addi $t2, $t2, 4
+	li $t6,0x000000
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t3, $t3, 256
+	add $t2, $t1, $t3
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	li $t6,0xffeb3b
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	li $t6,0x000000
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t3, $t3, 256
+	add $t2, $t1, $t3
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	li $t6,0xffeb3b
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	li $t6,0x000000
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t3, $t3, 256
+	add $t2, $t1, $t3
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	li $t6,0xffeb3b
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	li $t6,0x000000
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t3, $t3, 256
+	add $t2, $t1, $t3
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t3, $t3, 256
+	add $t2, $t1, $t3
+	addi $t2, $t2, 4
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t2, $t2, 4
+	addi $t3, $t3, 256
+	add $t2, $t1, $t3
+	addi $t2, $t2, 4
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t2, $t2, 4
+	addi $t3, $t3, 256
+	add $t2, $t1, $t3
+	addi $t2, $t2, 4
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	add $t4, $t2, $t0
+	sw $t6, ($t4)
+	addi $t2, $t2, 4
+	addi $t3, $t3, 256
+	add $t2, $t1, $t3
